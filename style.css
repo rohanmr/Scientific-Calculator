@@ -1,7 +1,10 @@
 div {
-  color: red;
+  color: rgba(163, 156, 160, 0.966);
   text-align: center;
   font-size: 4rem;
+}
+.heading {
+  margin: 60px;
 }
 
 .calculator {
