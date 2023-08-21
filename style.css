@@ -8,11 +8,15 @@ div {
   border: 2px solid #ddd;
   width: 280px;
   box-sizing: border-box;
-  margin: 40px auto 0;
+  margin: 40px auto 20px;
+  padding: 0 20px 20px 20px;
   font-family: verdana;
+  border-radius: 20px;
+  background: #e0e0e0;
+  box-shadow: 20px 20px 60px #bebebe, -20px -20px 60px #ffffff;
 }
 .calculator .form-control {
-  height: 60px;
+  height: 30px;
 }
 .calculator .form-group {
   margin-bottom: 20px;
@@ -20,7 +24,12 @@ div {
 
 .ans {
   border: 2px solid black;
-
+  padding: 12px;
+  border: none;
+  border-radius: 4px;
+  box-shadow: 2px 2px 7px 0 rgb(0, 0, 0, 0.2);
+  outline: none;
+  color: dimgray;
   width: 500px;
 }
 .calculator input[type="text"] {
