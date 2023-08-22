@@ -1,3 +1,5 @@
 # Scientific-Calculato
 
-Install VS Code and Run It on Live Server
+Install VS Code & Extension Live Server.
+
+Run It on Live Server
